@@ -1,0 +1,11 @@
+quiz-app/  
+├── public/          # Static assets  
+├── src/  
+│   ├── components/  # React components  
+│   ├── styles/      # CSS/SCSS files  
+│   ├── utils/       # Helper functions and API integration  
+│   ├── App.js       # Main app component  
+│   ├── index.js     # Entry point  
+│   └── ...  
+├── package.json     # Project configuration and dependencies  
+└── README.md        # Project documentation  
